@@ -1,0 +1,5 @@
+#### Experiment: Mass Balance Only
+PINN (MB) trained, with different random seeds, for the Deception region
+
+The sub-folders contain the following files: 
+- ...
