@@ -6,7 +6,7 @@ Scripts, data, and saved models for training PINNs constrained by the both the c
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16852920.svg)](https://doi.org/10.5281/zenodo.16852920)
 
 If using any of the data, code and models hosted in this GitHub repository, the authors request that you also cite the following: 
-- Krishna, M., Cheng, G., and Morlighem, M.: mansakrishna23/BedMappingPINN: v1.0.0, https://doi.org/10.5281/zenodo.16852920, 2025
+- Krishna, M.: mansakrishna23/BedMappingPINN: v1.0.0, https://doi.org/10.5281/zenodo.16852920, 2025
 - Cheng, G., Krishna, M., and Morlighem, M.: A Python library for solving ice sheet modeling problems using Physics Informed Neural Networks, PINNICLE v1.0, EGUsphere, 2025, 1–26, https://doi.org/10.5194/egusphere-2025-1188, 2025b.
 -  Cheng, G., Krishna, M., and Francis, S.: ISSMteam/PINNICLE: v0.1, https://doi.org/10.5281/zenodo.14889235, 2025a.
 - Cheng, G., Morlighem, M., and Francis, S.: Forward and Inverse Modeling of Ice Sheet Flow Using Physics-Informed Neural Net-
