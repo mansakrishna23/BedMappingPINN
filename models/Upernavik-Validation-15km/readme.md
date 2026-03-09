@@ -1,5 +1,5 @@
 #### Validation Experiment: Coupling mass balance (MB) and stress balance (SB)
-PINNs (MB+SB) trained, with different random seeds, for the Upernavik region using only a subset of ice thickness training data, spaced at ~15 km apart
+PINNs (V1) trained, with different random seeds, for the Upernavik region using only a subset of ice thickness training data, spaced at ~15 km apart
 
 Each subfolder contains the following files: 
 - **history.json** : the PINN training history
