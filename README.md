@@ -3,7 +3,7 @@
 Scripts, data, and saved models for training PINNs constrained by the both the conservation of mass and conservation of momentum to infer the bed topography. 
 
 #### Citation
-<a href="https://doi.org/10.5281/zenodo.18939189"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18939189.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18939189.svg)](https://doi.org/10.5281/zenodo.18939189)
 
 If using any of the data, code and models hosted in this GitHub repository, the authors request that you also cite the following: 
 - Krishna, M.: mansakrishna23/BedMappingPINN: v2.0.0, https://doi.org/10.5281/zenodo.18939189, 2026
